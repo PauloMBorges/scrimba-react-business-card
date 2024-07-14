@@ -1,8 +1,13 @@
-# React + Vite
+# Scrimba React Digital Business Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a digital business card (static page) built from scratch as part of the [Scrimba's Learn React course](https://v2.scrimba.com/learn-react-c0e).
+It was also my first full developed project using React, in which I learned the basics of React, such as setting up, components, JSX syntax and 
+deploying to Github Pages.
 
-Currently, two official plugins are available:
+![Digital Business Card Screenshot](/src/assets/business-card-sc.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- React
+- HTML
+- CSS
